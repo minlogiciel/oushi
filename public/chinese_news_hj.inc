@@ -1,0 +1,8 @@
+<?php
+
+$HOME_HUAWEN_NEWS = array(
+	$JY_NEWS22, $JY_NEWS21, $ASSO_NEWS4, $JY_NEWS4, $JY_NEWS7, $JY_NEWS5
+);
+
+
+?>

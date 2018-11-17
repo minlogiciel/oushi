@@ -1,0 +1,11 @@
+<?php
+ $JL_NEWS19 = array(
+"Expositions récentes à la fête de la Lune",
+"A l'occasion de la fête de la lune, l'Association des Amis de Nouvelles d'Europe vous prépare un «gâteau de lune» ",
+"",
+"le 6 septembre 2014",
+array(
+),
+array("A l'occasion de la fête de la lune, l'Association des Amis de Nouvelles d'Europe vous prépare un « gâteau de lune » spécial avec une double exposition : l’une sur l’ancien palais d’été et l’autre sur le médecin Jean Augustin Bussière, méconnu en France mais célèbre en Chine", "<IMG src='".$PHOTO_PATH."jiaoliunews/invitation.jpg' width=500>", " 	L’ancien palais d'été revoit la lumière —— Exposition culturelle sur l'ancien palais d'été", "L'ancien palais d'été, réputé comme le « jardin des jardins », est le « modèle de tous les arts architecturaux des jardins ».  En plus des vieilles photos et de l'aquatinte de l'ancien palais d'été, vous pourrez admirer la reproduction des 12 signes du Zodiaque (statues à corps humain surmontés de têtes d'animaux (copie).  C’est une occasion unique de découvrir ce palais légendaire !", "     Monsieur Jean-Augustin Bussière (1872-1958), le nom pour les peuples chinois signifie un bon docteur, un bon voisin et un bon ami, est un médecin légendaire qui a marqué les esprits chinois.", "        La récente apparition de son nom et de son exploit sur la scène mondiale provient du discours important lancé par M. Xi Jinping, le président de la Chine dans la Commémoration des 50 ans de Relations Diplomatiques sino-françaises : « Nous ne saurons jamais oublier les nombreux amis français ayant apporté une contribution de poids au développement tous azimuts de la Chine. Je citerai entre autres le Médecin Jean-Augustin Bussière qui au risque de sa vie a transporté à vélo de précieux médicaments vers les bases de lutte contre les agresseurs japonais …»", " 	Vernissage le lundi 8 septembre 10H au 48-50 RUE BENOIT MALON, 94250 GENTILLY. ", "", "Venez nombreux ! Bonne fête de la Lune!", "", "Date d’exposition ：du 8 au 16 septembre 2014", "Horaire :  10H00 – 12H30 ;  13H30 – 17H30", "Lieu ：48-50 Rue Benoît Malon，94250 Gentilly", ""),
+);
+?>

@@ -1,0 +1,46 @@
+<?php
+ $JY_NEWS6 = array(
+"2014年3月23日YCT考试报名开始",
+" ",
+"",
+"2013年12月26日",
+array(
+),
+array(	"欧洲时报孔子课堂定于2014年3月23日（星期日）举行新中小学生汉语考试（YCT）。本次考试共设一至四级的笔试，",
+	"<b>考试时间及费用：</b>",
+	"一级：10点30到11点05,    	5欧；",
+	"二级：14点00到14点50,  	10欧；",
+	"三级：11点45到12点45,  	15欧；",
+	"四级：15点30到16点55,  	20欧",
+	"<b>考试地点：</b> 48-50, Rue Benoît Malon，94250 Gentilly",
+	"<b>报名方式：</b>",
+	"1）网络报名： <a href='http://www.chinesetest.cn/goliuchengtu.do' target=_blank>http://www.chinesetest.cn</a> （需先注册）",
+	"2）考点报名： 欧洲时报孔子课堂002办公室",
+	"<b>缴费方式：</b>",
+	"到考点直接交现金或支票，也可将支票寄至欧洲时报孔子课堂（地址如上，支票抬头请写Association des Amis de Nouvelle d'Europe）。",
+	"报名、缴费截止日期：2014年2月21日",
+	"欢迎大家踊跃报名！",
+	""),
+array(
+"L’inscription à l’examen d’YCT (Youth Chinese Test) du 23 mars est ouverte",
+"",
+"",
+"",
+array(
+),
+array(	"La Classe Confucius de Nouvelles d’Europe organise le YCT le 23 mars 2014. L’écrit du YCT (niveau 1 à 4) comprend une épreuve écrite et d’écoute. ",
+	"Horaires d’examen et frais d’inscription :",
+	"— Niveau I : 10h30 - 11h05, à 5 euros",
+	"— Niveau II : 14h00 - 14h50, à 10 euros",
+	"— Niveau III : 11h45 - 12h45, à 15 euros",
+	"— Niveau IV : 15h30 - 16h55, à 20 euros",
+	"Lieu d’examen : 48-50, Rue Benoît Malon, 94250 Gentilly",
+	"Inscription : &quot;,",
+	"Sur internet : <a href='http://www.chinesetest.cn' target=_blank>http://www.chinesetest.cn</a>",
+	"Sur place : La Classe Confucius de Nouvelles d’Europe, Bureau 002",
+	"Paiement :",
+	"Vous pouvez payer en espèces ou en chèque sur place, ou envoyer le chèque à : Association des Amis de Nouvelles d’Europe, 48-50, Rue Benoît Malon, 94250 Gentilly.",
+	"Date limite d’inscription et de paiement : 21 février 2014."),
+)
+);
+?>

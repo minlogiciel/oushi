@@ -1,0 +1,11 @@
+<?php
+ $JL_NEWS25 = array(
+"Conférence (en français) : Voltaire et la Chine",
+"L’Orphelin de la Chine, un drame inspiré d’un recueil d’opéra traditionnel compilé ",
+"",
+"Le 22 octobre 2014",
+array(
+),
+array("<IMG src='".$PHOTO_PATH."jiaoliunews/voltaire.jpg' width=500>", "Voltaire a écrit «L’Orphelin de la Chine», un drame inspiré d’un recueil d’opéra traditionnel compilé sous la dynastie des Yuan (1280-1368). Il s’agit de la tragédie « L’Orphelin de la famille Zhao », seule œuvre passée à la postérité du dramaturge Ji Junxiang. Voltaire y trouvait les éléments d’une tragédie classique, ceux d’un bel opéra et des valeurs qu’il pouvait proposer à ses compatriotes.", " ", "Voltaire pensait que l’orphelin de la famille Zhao pourrait apporter à la France quelque chose de neuf. Il voulait donc exalter les Chinois et faire connaître leurs mœurs et la morale confucéenne. « L’Orphelin de la famille Zhao » a touché Voltaire, car cette pièce lui permettait de critiquer une certaine vanité de la civilisation française au XIVème siècle comme le danger de la métaphysique.", " ", "En introduisant « L’Orphelin de la famille Zhao » dans le champ des humanités françaises, Voltaire a mis en valeur la précellence de Confucius et sa morale, qui ne manquerait pas, espérait-il, d’inspirer aux Français l’amour de la vertu et l’horreur du vice.", "", "Le conférencier : Professeur SHEN Dali", "Ecrivain, historien, professeur de littérature, figurant au International Who’s Who. Il a publié La Trilogie de notre temps : Les Enfants de Yenan (Stock), L’Etoile filante, Les Amoureux du lac (Maisonneuve et Larose) ; L’Humble Violette, Le Mirliton des Titants, Les Fleurs du rêve, La Vie de Berlioz, Frida Kahlo, Le Tableau de Paris, Les Lettres et Arts en France, Le Jardin latin, Voyage en Europe et en Amérique du Nord, Ondes mouvantes dans le pays de Marianne, Peinture et poésie.", "", "Date: dimanche 16 novembre 2014 à 16h00", "Lieu: 48-50 Rue Benoît Malon，94250 Gentilly", "", "Entrée libre.", ""),
+);
+?>

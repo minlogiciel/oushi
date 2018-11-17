@@ -1,0 +1,1 @@
+<?php include "../source/newschool.php"; ?>

@@ -1,0 +1,46 @@
+<?php
+ $JL_NEWS21 = array(
+"《陶瓷艺术与茶文化》主题讲座",
+"茶与健康协会联合欧洲时报特别策划9月17日《陶瓷艺术与茶文化》主题讲座",
+"",
+"2014年9月12日",
+array(
+),
+array(	"<IMG src='".$PHOTO_PATH."jiaoliunews/Porcelaine et Thé.jpg' width=500>",
+	"陶瓷艺术是中华文明宝库中璀璨的明珠，中国制瓷技术曾一度世界领先，景德镇瓷器驰名中外，“白如玉，明如镜，薄如纸，声如磐”。景德镇陶瓷大分为艺术陶瓷、生活用瓷和陈设用瓷。陶瓷工艺在茶具茶文化领域的应用则将艺术与实用性完美融合。",
+	"",
+	"茶与健康协会联合欧洲时报特别策划9月17日《陶瓷艺术与茶文化》主题讲座，特邀中国陶瓷行业专家，春华泰文化公司总经理张利民先生主讲。张先生长期致力于陶瓷行业研究发展，讲座将以中国陶瓷发展史为脉络，分享和赏析各个朝代时期，独特的艺术风格和不同的技术特点。“春华泰”品牌创始于1944年，作为北京知名老字号企业，以“瓷都”景德镇为基地，借助国内外知名艺术大师，以“高品质、纯手工”的特质，使用最具表现力的技法，创作反映时代特色的文化精品。",
+	"",
+	"本次活动以专家讲座为主体，配以精美陶器瓷器茶具展示，设有观众-专家互动问答交流环节，之后安排茶点，品茗，交流会。",
+	"活动费用：5€，现场收取。",
+	"<a href='https://docs.google.com/forms/d/1TYUzohoF8oITqhFWjjZd9T0wN_TIpnN3Gva3VRAwZFg/viewform'>在线报名</a>，名额有限，活动前主办方会发送确认函。",
+	"",
+	"时间：2014年9月17日周三晚7点",
+	"地点：法国巴黎，欧洲时报文化中心，48-50 Rue Benoît Malon，94250 Gentilly",
+	"交通:   地铁快线 RER B: Gentilly    ",
+	""),
+array(
+"L'Art de Céramique & Thé",
+"La conférence autour de &quot; Porcelaine et culture de Thé&quot; sera prensenté par l'expert, ",
+"",
+"le 12 septembre 2014",
+array(
+),
+array(	"<IMG src='&quot;.".$PHOTO_PATH.".&quot;jiaoliunews/Porcelaine et Thé.jpg' width=500>",
+	"La conférence autour de &quot; Porcelaine et culture de Thé&quot; sera prensenté par l'expert, et directeur général de Chunhuatai de Beijing. Une dégusation de thé sur place. Nous vous invitons pour partager ce moment culturel chinois. ",
+	"",
+	"Tarif : 5 euros",
+	"",
+	"<a href='https://docs.google.com/forms/d/1TYUzohoF8oITqhFWjjZd9T0wN_TIpnN3Gva3VRAwZFg/viewform'>L'inscription en ligne</a>",
+	"",
+	"",
+	"Date: 17 septembre 2014 à 19H00",
+	"",
+	"Lieu: 48-50 Rue Benoît Malon，94250 Gentilly",
+	"entre culturel de l’Association des Amis de Nouvelles d’Europe",
+	"",
+	"Bienvenue!",
+	""),
+)
+);
+?>

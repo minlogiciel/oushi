@@ -1,0 +1,46 @@
+<?php
+ $JL_NEWS20 = array(
+"文化中心开放日",
+"为了让更多的人了解和关注我们，欧洲时报文化中心将在2014年9月20、21日（周六、周日）举办开放日活动",
+"",
+"2014年9月7日",
+array(
+),
+array(	"<IMG src='".$PHOTO_PATH."jiaoliunews/jpo1.JPG' width=500>",
+	"欧洲时报文化中心成立于1992年，经过二十多年的努力，现在已经发展成为一个包括中文学校、展览中心、图书馆在内的综合活动中心，中心为旅法华人提供了各种展览、讲座、唱歌、跳舞、书法、绘画、气功、武术等多种多样的文化活动。为法中文化交流和促进两国人民之间的友谊做出了极大努力和贡献。",
+	"为了让更多的人了解和关注我们，欧洲时报文化中心将在2014年9月20、21日（周六、周日）举办开放日活动，届时将有公共课程：瑜伽、书画、成人中文，以及气功讲座、舞会和展览等各项活动。诚邀广大学生、家长及中法各界人士来中心咨询参观、指导。",
+	"",
+	"",
+	"开放日日期：2014年9月20日；9月21日",
+	"开放日日程：见下表",
+	"<IMG src='".$PHOTO_PATH."jiaoliunews/jpo3.jpg' width=500>",
+	"开放时间: 	10:00 - 17:30",
+	"地点：48-50 Rue Benoît Malon，94250 Gentilly",
+	""),
+array(
+"Les journées Portes Ouvertes",
+" Nous organisons un événement « Les journées portes ouvertes »  ",
+"",
+"le 7 septembre 2014",
+array(
+),
+array(	"<IMG src='".$PHOTO_PATH."jiaoliunews/jpo2.JPG' width=500>",
+	"L’Association des Amis de Nouvelles d’Europe, créée en 1992,  depuis ces vingt années nous ont permis de nous développer sous la forme d’un Centre culturel qui comprend aujourd'hui des galeries d'exposition, de nombreuses classes et une bibliothèque devenue un véritable Centre d'activités. ",
+	"",
+	"Le Centre culturel de «Nouvelles d’Europe» organise diverses activités culturelles, telles que des expositions, des conférences, la danse, la chorale, la peinture chinoise et Kung-fu etc ; nous espérons que notre Association pourra ouvrir une fenêtre dans les échanges culturels franco-chinois et apporter une grande contribution à la promotion de la culture chinoise.",
+	"",
+	"Nous organisons un événement « Les journées portes ouvertes »  pour favoriser les rencontres entres nous et les visiteurs, et aussi pour échanger des informations avec plus de gens.",
+	"",
+	"Venez participer les cours de Yoga, de chinois, de la calligraphie & peinture chinoise; et venez à la conférence pour découvrir qu'est ce que le Qi Gong et pourquoi le pratiquer, venez danser ou visiter à l'exposition... Nous vous attendrons le week-end du 20 septembre. ",
+	"",
+	"Information importante à noter :",
+	"",
+	"Date：les 20 et 21 septembre 2014",
+	"Programme: voir le tableau en-dessous",
+	"<IMG src='".$PHOTO_PATH."jiaoliunews/jpo3.jpg' width=500>",
+	"Horaire: 	10:00 - 17:30",
+	"Lieu：48-50 Rue Benoît Malon，94250 Gentilly",
+	""),
+)
+);
+?>

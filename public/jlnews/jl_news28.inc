@@ -1,0 +1,47 @@
+<?php
+ $JL_NEWS28 = array(
+"文化讲座-由戏剧交流看跨文化对话（法语）",
+"中法建交50周年纪念活动为回顾两国在艺术交流，尤其是戏剧领域作出的努力和成果提供了契机。",
+"",
+"2014年12月24日",
+array(
+),
+array(	"<IMG src='".$PHOTO_PATH."jiaoliunews/conf-dongchun.png' width=500>",
+	"",
+	"中法建交50周年纪念活动为回顾两国在艺术交流，尤其是戏剧领域作出的努力和成果提供了契机。从埃马纽埃尔•罗布莱斯的《蒙塞拉》、克洛德•普生的《浴血美人》、儒勒•瓦雷斯的《樱桃时节》，到维克多•雨果的《千元赏金》与《笑面人》，热情的中国观众自上世纪80年代以来，观赏了众多优秀的法国戏剧在北京的演出。尽管存在文化差异和不同的戏剧表达方式，人们消除了偏见，并由此开拓了新的艺术及精神视野。主讲人董纯教授，与她的丈夫沈大力教授一起长期致力于文学翻译工作，向日新月异的中国展现法国文化的魅力。",
+	"",
+	"时间：2015年1月25日星期日16时",
+	"地点：欧洲时报文化中心",
+	"48-50 Rue Benoît Malon，94250 Gentilly",
+	"",
+	"",
+	" <div class='note_title'><h1><em>免费入场，欢迎参加！</em></font></h1></div>",
+	"",
+	"主讲人简介：",
+	"",
+	"董纯，毕业于北京外国语学院法语系，毕业后留校任教。1991年，受巴黎《欧洲时报》聘请创办法文报刊《丝绸之路》，并在《欧洲时报》编辑部工作。1996年起，应法国国际电视台（TV5 Monde）邀请，作为特约记者，参预《焦点论坛》的国际时政评论。长期从事文学翻译工作，促进中法文化交流。获鲁迅文学奖“外国文学翻译奖”，法兰西共和国艺术与文学骑士勋章和法国竞业金红十字勋章。法译中的主要作品有：小说《狂人堡》、《热曼妮•拉萨顿》、《勾栏女艾丽莎》、《茶花女的荣辱》、《维苏威火山》、《拜伦情史》等；剧本《千元赏金》、《笑面人》、《浴血美人》，均由中国青年艺术剧院、中国国家话剧院公演。中译法的主要作品有《故宫珍宝》、《中国丝绸》、《天涯红泪》、《中国女诗人诗选》、《秧歌》、《向着白夜旅行》、《旧时代的磨坊》、《银盘》、《香坊》、《九朵蝴蝶花》、《沙狐》、《沙狼》等；与沈大力合作，著有13卷《诗与画的美学》，同时用意大利文、法文和英文三种文字在意大利斯比拉里出版社出版。",
+	""),
+array(
+"Le dialogue transculturel à travers la mise en scène de pièces de théâtre françaises en Chine",
+"Le dialogue transculturel à travers la mise en scène de pièces de théâtre françaises en Ch",
+"",
+"le 24 décembre 2015",
+array(
+),
+array(	"<IMG src='".$PHOTO_PATH."jiaoliunews/conf-dongchun.png' width=500>",
+	"",
+	"La commémoration du cinquantenaire de l’établissement des relations diplomatiques sino-françaises donne l’occasion de jeter un regard rétrospectif sur les efforts qu’on a déployés et les résultats obtenus en échanges artistiques, notamment dans le domaine du théâtre entre les deux pays. De Montsserrat d’Emmanuel Roblès, Erzebeth de Claude Prin, Le Temps des cerises de Jules Vallès, à Mille francs de récompense et L’Homme qui rit de Victor Hugo, les spectateurs chinois, dès les années 80, ont eu accès, par leur mises en scène à Pékin, à de nouveaux horizons artistique et spirituel. Malgré la différence de culture et les péripéties de réalisation théâtrale, on a assisté à un élargissement de l’esprit et une soif d’aller au-delà des préjugés chez un peuple enthousiste et ravi de découvrir des chefs-d’oeuvre français . Avec son époux Shen Dali, la conférencière, Madame Dong Chun, en tant qu’initiateur et traducteur, y a pris une part active, contribuant largement au rayonnement de la culture et de l’Esprit de la France dans une Chine en pleine mutation.",
+	"",
+	"Conférence en français",
+	"Date : Dimanche 25 janvier 2015",
+	"Horaire : 16h00",
+	"Lieu: 48-50 Rue Benoît Malon，94250 Gentilly",
+	"",
+	"La conférencoère:",
+	"Madame DONG Chun, Professeur de français et membre de l’Association des écrivains de Chine ; chevalier des Arts et Lettres en 1991 ; journaliste en France depuis 1991 ; commentateur associé à TV5 Monde de 1996 à 2012.  ",
+	"Parmi ses oeuvres : Poésie et Peinture (éd. Spirali, Italie), Le Miroir de l’Europe (éd. Youfeng, Paris), Fragments de miroir parisiens (éd. Grand Eléphant, Chine) ; ",
+	"traductions littéraires français-chinois-français : Les Larmes rouges du bout du monde (éd Gallimard), La Danseuse de Yangge, La Renarde; Germinie Lacerteux, La Fille Elisa, O châteaux ô dingos, Le Vésuve ; Mille francs de récompense, L’Homme qui rit, Erzebeth.",
+	""),
+)
+);
+?>
